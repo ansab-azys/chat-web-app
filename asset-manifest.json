@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/chat-web-app/static/css/main.8e0fdf1e.css",
+    "main.js": "/chat-web-app/static/js/main.97639781.js",
+    "static/media/undraw_chatting_re_j55r.svg": "/chat-web-app/static/media/undraw_chatting_re_j55r.38bba66a802f7267d4d277a35a57c80d.svg",
+    "index.html": "/chat-web-app/index.html",
+    "main.8e0fdf1e.css.map": "/chat-web-app/static/css/main.8e0fdf1e.css.map",
+    "main.97639781.js.map": "/chat-web-app/static/js/main.97639781.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e0fdf1e.css",
+    "static/js/main.97639781.js"
+  ]
+}
